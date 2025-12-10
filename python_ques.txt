@@ -1,0 +1,10 @@
+Which keyword defines a function?|def|func|lambda|function|1
+What data type is returned by input() function?|int|str|bool|float|2
+Which operator is used for floor division?|/|//|%|**|2
+What is used to define a block of code in Python?|{}|[]|()|Indentation|4
+Which of the following is immutable?|List|Set|Tuple|Dictionary|3
+Which function is used to find the length of a list?|len()|count()|size()|find()|1
+Which keyword is used to handle exceptions?|try|except|catch|throw|2
+Which method adds an item to the end of a list?|add()|append()|insert()|extend()|2
+What is the output of type(10)?|<class 'float'>|<class 'int'>|<class 'str'>|<class 'bool'>|2
+Which module is used to generate random numbers?|random|math|numbers|os|1

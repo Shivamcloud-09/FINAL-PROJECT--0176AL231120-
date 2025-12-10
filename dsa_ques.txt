@@ -1,0 +1,10 @@
+What is the time complexity of Binary Search?|O(n)|O(log n)|O(n log n)|O(1)|2
+Which data structure uses FIFO?|Stack|Queue|Tree|Graph|2
+Which traversal is used in Depth First Search?|Inorder|Preorder|Postorder|Level order|2
+Which sorting algorithm is stable?|Quick Sort|Merge Sort|Heap Sort|Selection Sort|2
+Which data structure is used for recursion?|Stack|Queue|Array|Linked List|1
+Which of the following is not a linear data structure?|Stack|Queue|Array|Tree|4
+What is the best case complexity of Bubble Sort?|O(n)|O(n log n)|O(n²)|O(log n)|1
+Which operation is not possible in a queue?|Enqueue|Dequeue|Random Access|None|3
+Which algorithm uses divide and conquer?|Merge Sort|Bubble Sort|Insertion Sort|Selection Sort|1
+Which data structure is used in BFS?|Stack|Queue|Tree|Graph|2

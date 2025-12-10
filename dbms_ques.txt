@@ -1,0 +1,10 @@
+What is a primary key?|Unique identifier|Duplicate key|Foreign key|Null key|1
+Which language is used to query databases?|Python|SQL|HTML|C++|2
+What does DML stand for?|Data Making Language|Data Manipulation Language|Data Model Language|Data Modify Logic|2
+What is normalization?|Removing redundancy|Adding redundancy|Encrypting data|None|1
+Which of these is a NoSQL DB?|MySQL|PostgreSQL|MongoDB|SQLite|3
+Which SQL clause is used to filter results?|SELECT|WHERE|FROM|ORDER BY|2
+What is a foreign key?|Key from another table|Duplicate key|Primary key|Null key|1
+Which of the following is not a type of join?|INNER|LEFT|CROSS|TOP|4
+What does ACID stand for in DBMS?|Atomicity Consistency Isolation Durability|Accuracy Control Integration Durability|Atomic Control Indexed Data|None|1
+Which command is used to delete all records from a table but keep its structure?|DROP|DELETE|TRUNCATE|REMOVE|3
